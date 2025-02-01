@@ -36,6 +36,35 @@ graph TD
 
 ## 🚀 Quick Start
 
+#### **Project Structure**
+
+```
+sentinel/
+├── api/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   └── services/
+│       ├── __init__.py
+│       ├── ml_service.py
+│       └── llm_service.py
+├── dashboard/
+│   ├── package.json
+│   ├── tailwind.config.js
+│   ├── next.config.js
+│   └── src/
+│       ├── pages/
+│       └── components/
+├── data/
+│   └── synthetic_claims.csv
+├── tests/
+│   └── test_api.py
+├── requirements.txt
+├── .env.example
+└── docker-compose.yml
+```
+
 1. **Clone the repository**
 ```bash
 git clone https://github.com/msp99000/sentinel.git
