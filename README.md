@@ -38,7 +38,7 @@ graph TD
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/sentinel.git
+git clone https://github.com/msp99000/sentinel.git
 cd sentinel
 ```
 
@@ -154,4 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Manpreet Singh - [@msp99000](https://x.com/msp99000)
 
-Project Link: [https://github.com/msp99000/sentinel](https://github.com/msp99000/sentinel)
+Project Link: [Github](https://github.com/msp99000/sentinel)
